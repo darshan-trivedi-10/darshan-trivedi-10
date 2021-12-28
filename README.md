@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan Trivedi</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-<p align="left"> <a href="https://twitter.com/darshan_10_" target="blank"><img src="https://img.shields.io/twitter/follow/darshan_10_?logo=twitter&style=for-the-badge" alt="darshan_10_" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/darshan_10_" target="blank"><img src="https://img.shields.io/twitter/follow/darshan_10_?logo=twitter&style=for-the-badge" alt="darshan_10_" /></a> </p> -->
 
 - 🌱 I’m currently learning **Web - Devlopment and improving my Competitive Programming skills**
 
