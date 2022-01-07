@@ -9,7 +9,7 @@
 
 - 💞️ I’m looking to collaborate on **Pair Programming...**
 
-- 📫 How to reach me **dbtrivedi03@gmail.com**
+- 📫 How to reach me **trivedidarshan30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
