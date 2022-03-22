@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Web - Devlopment and improving my Competitive Programming skills**
 
-- 👀 I’m interested in **Compititive Programming & Web-Devlopment...**
+- 👀 I’m interested in **Compititive Programming & Web-Devlopment . . .**
 
-- ✨ I’m looking to collaborate on **Pair Programming...**
+- ✨ I’m looking to collaborate on **Pair Programming . . .**
 
 - 📫 How to reach me **trivedidarshan30@gmail.com**
 
