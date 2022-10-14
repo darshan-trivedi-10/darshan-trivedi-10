@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on **MERN Stack**
 - 📫 How to reach me **trivedidarshan30@gmail.com**
-- ⚡ Fun fact I'm also interested in geopolitics
+- ⚡ Fun fact I'm also interested in geopolitics . . .
 
 
 ## 🌐 Connect with me:
