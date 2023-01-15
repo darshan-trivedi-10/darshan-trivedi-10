@@ -8,7 +8,7 @@
 
 
 ## 🌐 Connect with me:
-<a href="https://linkedin.com/in/darshan-trivedi-a6828b1ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-trivedi-a6828b1ba" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dbt10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-trivedi-a6828b1ba" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adhrit_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adhrit_10" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
